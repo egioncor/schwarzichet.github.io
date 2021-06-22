@@ -91,7 +91,7 @@ for gs in game_sheets:
                     if score.strip() == '-1':
                         score = "<Badge type=\"danger\" text=\"-1\" vertical=\"middle\" />"
 
-                    mdFile.new_header(2, name + " " + score, style="atx")
+                    mdFile.new_header(2, score + " " + name, style="atx")
 
                     if len(comment) > 500:
                         comment = "::: details 小作文警告\n" + comment + "\n:::\n"
