@@ -1,0 +1,1 @@
+const e={key:"v-6cd41c59",path:"/game/2010/%E5%B9%BD%E7%81%B5%E8%AF%A1%E8%AE%A1.html",title:"幽灵诡计",lang:"en-US",frontmatter:{game_release_date:"2010-06-24"},excerpt:"",headers:[{level:2,title:"swz",slug:"swz",children:[]}],filePathRelative:"game/2010/幽灵诡计.md",git:{updatedTime:1624297843e3}};export{e as data};

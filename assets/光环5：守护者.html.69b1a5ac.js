@@ -1,0 +1,1 @@
+const e={key:"v-60aba402",path:"/game/2015/%E5%85%89%E7%8E%AF5%EF%BC%9A%E5%AE%88%E6%8A%A4%E8%80%85.html",title:"光环5：守护者",lang:"en-US",frontmatter:{game_release_date:"2015-10-27"},excerpt:"",headers:[{level:2,title:"17",slug:"_17",children:[]}],filePathRelative:"game/2015/光环5：守护者.md",git:{updatedTime:1624297843e3}};export{e as data};

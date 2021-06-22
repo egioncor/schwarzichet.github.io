@@ -1,0 +1,1 @@
+const e={key:"v-4183bdbc",path:"/game/2012/%E6%97%A0%E5%B0%BD%E7%A9%BA%E9%97%B4.html",title:"无尽空间",lang:"en-US",frontmatter:{game_release_date:"2012-07-04"},excerpt:"",headers:[{level:2,title:"三水",slug:"三水",children:[]},{level:2,title:"17",slug:"_17",children:[]}],filePathRelative:"game/2012/无尽空间.md",git:{updatedTime:1624297843e3}};export{e as data};

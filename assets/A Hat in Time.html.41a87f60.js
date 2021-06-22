@@ -1,0 +1,1 @@
+const e={key:"v-017f49c2",path:"/game/2017/A%20Hat%20in%20Time.html",title:"A Hat in Time",lang:"en-US",frontmatter:{game_release_date:"2017-10-05"},excerpt:"",headers:[{level:2,title:"xgs",slug:"xgs",children:[]}],filePathRelative:"game/2017/A Hat in Time.md",git:{updatedTime:1624297843e3}};export{e as data};

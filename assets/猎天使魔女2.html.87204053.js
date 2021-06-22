@@ -1,0 +1,1 @@
+const e={key:"v-4d995253",path:"/game/2014/%E7%8C%8E%E5%A4%A9%E4%BD%BF%E9%AD%94%E5%A5%B32.html",title:"猎天使魔女2",lang:"en-US",frontmatter:{game_release_date:"2014-09-20"},excerpt:"",headers:[{level:2,title:"ie",slug:"ie",children:[]}],filePathRelative:"game/2014/猎天使魔女2.md",git:{updatedTime:1624297843e3}};export{e as data};

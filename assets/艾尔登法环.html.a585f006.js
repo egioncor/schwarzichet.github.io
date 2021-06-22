@@ -1,0 +1,1 @@
+const e={key:"v-3f554c89",path:"/game/2022/%E8%89%BE%E5%B0%94%E7%99%BB%E6%B3%95%E7%8E%AF.html",title:"艾尔登法环",lang:"en-US",frontmatter:{game_release_date:"2022-01-21"},excerpt:"",headers:[],filePathRelative:"game/2022/艾尔登法环.md",git:{updatedTime:1624297843e3}};export{e as data};

@@ -1,0 +1,1 @@
+const e={key:"v-7d3e4864",path:"/game/2013/%E9%BE%99%E4%B9%8B%E4%BF%A1%E6%9D%A1%EF%BC%9A%E9%BB%91%E6%9A%97%E8%A7%89%E8%80%85.html",title:"龙之信条：黑暗觉者",lang:"en-US",frontmatter:{game_release_date:"2013-04-25"},excerpt:"",headers:[{level:2,title:"dash",slug:"dash",children:[]}],filePathRelative:"game/2013/龙之信条：黑暗觉者.md",git:{updatedTime:1624297843e3}};export{e as data};

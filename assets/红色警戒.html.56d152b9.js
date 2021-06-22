@@ -1,0 +1,1 @@
+const e={key:"v-7330065e",path:"/game/nan/%E7%BA%A2%E8%89%B2%E8%AD%A6%E6%88%92.html",title:"红色警戒",lang:"en-US",frontmatter:{game_release_date:"unknown"},excerpt:"",headers:[{level:2,title:"本子",slug:"本子",children:[]}],filePathRelative:"game/nan/红色警戒.md",git:{updatedTime:1624297843e3}};export{e as data};

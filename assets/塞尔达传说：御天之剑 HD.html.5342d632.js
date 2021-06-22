@@ -1,0 +1,1 @@
+const e={key:"v-6b6df030",path:"/game/2021/%E5%A1%9E%E5%B0%94%E8%BE%BE%E4%BC%A0%E8%AF%B4%EF%BC%9A%E5%BE%A1%E5%A4%A9%E4%B9%8B%E5%89%91%20HD.html",title:"塞尔达传说：御天之剑 HD",lang:"en-US",frontmatter:{game_release_date:"2021-07-16"},excerpt:"",headers:[],filePathRelative:"game/2021/塞尔达传说：御天之剑 HD.md",git:{updatedTime:1624297843e3}};export{e as data};

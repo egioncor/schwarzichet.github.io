@@ -1,0 +1,1 @@
+const e={key:"v-4d292fbc",path:"/game/2021/%E7%94%9F%E5%8C%96%E5%8D%B1%E6%9C%BA%EF%BC%9A%E6%9D%91%E5%BA%84.html",title:"生化危机：村庄",lang:"en-US",frontmatter:{game_release_date:"2021-05-07"},excerpt:"",headers:[{level:2,title:"龙",slug:"龙",children:[]}],filePathRelative:"game/2021/生化危机：村庄.md",git:{updatedTime:1624297843e3}};export{e as data};

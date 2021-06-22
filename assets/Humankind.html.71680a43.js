@@ -1,0 +1,1 @@
+const e={key:"v-7fbb7506",path:"/game/2021/Humankind.html",title:"Humankind",lang:"en-US",frontmatter:{game_release_date:"2021-08-18"},excerpt:"",headers:[],filePathRelative:"game/2021/Humankind.md",git:{updatedTime:1624297843e3}};export{e as data};

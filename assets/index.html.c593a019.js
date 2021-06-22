@@ -1,0 +1,1 @@
+import{o as a,c as n,F as s,a as r,b as e}from"./app.77460253.js";const o={},l=r("h1",{id:"nan"},[r("a",{class:"header-anchor",href:"#nan"},"#"),e(" nan")],-1),t=r("p",null,"This is for nan's games.",-1);o.render=function(r,e){return a(),n(s,null,[l,t],64)};export default o;

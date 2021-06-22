@@ -1,0 +1,1 @@
+const e={key:"v-28755329",path:"/game/2021/%E7%BB%AF%E7%BA%A2%E7%BB%93%E7%B3%BB.html",title:"绯红结系",lang:"en-US",frontmatter:{game_release_date:"2021-06-24"},excerpt:"",headers:[],filePathRelative:"game/2021/绯红结系.md",git:{updatedTime:1624297843e3}};export{e as data};

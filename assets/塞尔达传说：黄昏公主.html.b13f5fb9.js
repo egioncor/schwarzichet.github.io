@@ -1,0 +1,1 @@
+const e={key:"v-a494024a",path:"/game/2006/%E5%A1%9E%E5%B0%94%E8%BE%BE%E4%BC%A0%E8%AF%B4%EF%BC%9A%E9%BB%84%E6%98%8F%E5%85%AC%E4%B8%BB.html",title:"塞尔达传说：黄昏公主",lang:"en-US",frontmatter:{game_release_date:"2006-11-19"},excerpt:"",headers:[{level:2,title:"M",slug:"m",children:[]}],filePathRelative:"game/2006/塞尔达传说：黄昏公主.md",git:{updatedTime:1624297843e3}};export{e as data};

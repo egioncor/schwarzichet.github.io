@@ -1,0 +1,1 @@
+const e={key:"v-da5328f0",path:"/game/2015/%E5%A4%A7%E9%80%86%E8%BD%AC%E8%A3%81%E5%88%A4.html",title:"大逆转裁判",lang:"en-US",frontmatter:{game_release_date:"2015-07-09"},excerpt:"",headers:[{level:2,title:"M",slug:"m",children:[]},{level:2,title:"sword",slug:"sword",children:[]}],filePathRelative:"game/2015/大逆转裁判.md",git:{updatedTime:1624297843e3}};export{e as data};

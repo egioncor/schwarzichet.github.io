@@ -1,0 +1,1 @@
+const e={key:"v-6b506ba2",path:"/game/2008/%E8%BE%90%E5%B0%843.html",title:"辐射3",lang:"en-US",frontmatter:{game_release_date:"2008-10-28"},excerpt:"",headers:[{level:2,title:"ui",slug:"ui",children:[]}],filePathRelative:"game/2008/辐射3.md",git:{updatedTime:1624297843e3}};export{e as data};

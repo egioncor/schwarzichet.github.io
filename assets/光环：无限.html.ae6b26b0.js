@@ -1,0 +1,1 @@
+const e={key:"v-1d4f8d91",path:"/game/nan/%E5%85%89%E7%8E%AF%EF%BC%9A%E6%97%A0%E9%99%90.html",title:"光环：无限",lang:"en-US",frontmatter:{game_release_date:"unknown"},excerpt:"",headers:[],filePathRelative:"game/nan/光环：无限.md",git:{updatedTime:1624297843e3}};export{e as data};

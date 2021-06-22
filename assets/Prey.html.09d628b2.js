@@ -1,0 +1,1 @@
+import{o as r,c as a,F as e,a as n,b as s}from"./app.77460253.js";const o={},p=n("h1",{id:"prey"},[n("a",{class:"header-anchor",href:"#prey"},"#"),s(" Prey")],-1),t=n("p",null,[s("TAG: 解谜 / 叙事"),n("br"),s(" 发售日: 2017-05-05"),n("br"),s(" 备注: no data~"),n("br"),s(" 总评人数: 0"),n("br"),s(" 好评人数: 0")],-1);o.render=function(n,s){return r(),a(e,null,[p,t],64)};export default o;

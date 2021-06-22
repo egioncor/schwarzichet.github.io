@@ -1,0 +1,1 @@
+const e={key:"v-12c3f953",path:"/game/2016/%E6%9E%81%E9%99%90%E8%84%B1%E5%87%BA3%EF%BC%9A%E9%9B%B6%E6%97%B6%E5%9B%B0%E5%A2%83.html",title:"极限脱出3：零时困境",lang:"en-US",frontmatter:{game_release_date:"2016-06-30"},excerpt:"",headers:[{level:2,title:"M",slug:"m",children:[]}],filePathRelative:"game/2016/极限脱出3：零时困境.md",git:{updatedTime:1624297843e3}};export{e as data};

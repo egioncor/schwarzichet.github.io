@@ -1,0 +1,1 @@
+const e={key:"v-4b08e6b8",path:"/game/2019/%E5%A4%A9%E5%A4%96%E4%B8%96%E7%95%8C.html",title:"天外世界",lang:"en-US",frontmatter:{game_release_date:"2019-10-25"},excerpt:"",headers:[{level:2,title:"bjzx",slug:"bjzx",children:[]},{level:2,title:"xgs",slug:"xgs",children:[]}],filePathRelative:"game/2019/天外世界.md",git:{updatedTime:1624297843e3}};export{e as data};

@@ -1,0 +1,1 @@
+const e={key:"v-76d65b49",path:"/game/2014/%E6%97%A0%E5%B0%BD%E5%B8%9D%E5%9B%BD.html",title:"无尽帝国",lang:"en-US",frontmatter:{game_release_date:"2014-09-18"},excerpt:"",headers:[{level:2,title:"xgs",slug:"xgs",children:[]},{level:2,title:"17",slug:"_17",children:[]}],filePathRelative:"game/2014/无尽帝国.md",git:{updatedTime:1624297843e3}};export{e as data};

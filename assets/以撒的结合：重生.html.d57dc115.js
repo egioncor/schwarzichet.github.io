@@ -1,0 +1,1 @@
+const e={key:"v-e96ca56e",path:"/game/2014/%E4%BB%A5%E6%92%92%E7%9A%84%E7%BB%93%E5%90%88%EF%BC%9A%E9%87%8D%E7%94%9F.html",title:"以撒的结合：重生",lang:"en-US",frontmatter:{game_release_date:"2014-11-04"},excerpt:"",headers:[{level:2,title:"dash",slug:"dash",children:[]}],filePathRelative:"game/2014/以撒的结合：重生.md",git:{updatedTime:1624297843e3}};export{e as data};

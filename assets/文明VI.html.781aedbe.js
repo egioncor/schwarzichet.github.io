@@ -1,0 +1,1 @@
+const e={key:"v-3662ea9c",path:"/game/2016/%E6%96%87%E6%98%8EVI.html",title:"文明VI",lang:"en-US",frontmatter:{game_release_date:"2016-10-21"},excerpt:"",headers:[{level:2,title:"db",slug:"db",children:[]},{level:2,title:"17",slug:"_17",children:[]},{level:2,title:"独寻者",slug:"独寻者",children:[]}],filePathRelative:"game/2016/文明VI.md",git:{updatedTime:1624297843e3}};export{e as data};

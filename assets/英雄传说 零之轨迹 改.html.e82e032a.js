@@ -1,0 +1,1 @@
+const e={key:"v-35820c72",path:"/game/2020/%E8%8B%B1%E9%9B%84%E4%BC%A0%E8%AF%B4%20%E9%9B%B6%E4%B9%8B%E8%BD%A8%E8%BF%B9%20%E6%94%B9.html",title:"英雄传说 零之轨迹 改",lang:"en-US",frontmatter:{game_release_date:"2020-05-28"},excerpt:"",headers:[{level:2,title:"sword",slug:"sword",children:[]}],filePathRelative:"game/2020/英雄传说 零之轨迹 改.md",git:{updatedTime:1624297843e3}};export{e as data};

@@ -1,0 +1,1 @@
+const e={key:"v-6c9c6426",path:"/game/2015/%E5%A5%87%E5%BC%82%E4%BA%BA%E7%94%9F.html",title:"奇异人生",lang:"en-US",frontmatter:{game_release_date:"2015-10-20"},excerpt:"",headers:[{level:2,title:"swz",slug:"swz",children:[]}],filePathRelative:"game/2015/奇异人生.md",git:{updatedTime:1624297843e3}};export{e as data};

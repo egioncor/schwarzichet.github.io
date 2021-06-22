@@ -1,0 +1,1 @@
+const e={key:"v-060f760a",path:"/game/2014/%E6%81%B6%E7%81%B5%E9%99%84%E8%BA%AB.html",title:"恶灵附身",lang:"en-US",frontmatter:{game_release_date:"2014-10-15"},excerpt:"",headers:[],filePathRelative:"game/2014/恶灵附身.md",git:{updatedTime:1624297843e3}};export{e as data};

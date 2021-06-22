@@ -1,0 +1,1 @@
+const e={key:"v-0ec42104",path:"/game/2021/%E7%9C%9F%E5%A5%B3%E7%A5%9E%E8%BD%AC%E7%94%9F5.html",title:"真女神转生5",lang:"en-US",frontmatter:{game_release_date:"2021-11-11"},excerpt:"",headers:[],filePathRelative:"game/2021/真女神转生5.md",git:{updatedTime:1624297843e3}};export{e as data};

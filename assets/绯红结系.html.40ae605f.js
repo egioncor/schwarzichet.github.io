@@ -1,0 +1,1 @@
+import{o as a,c as r,F as n,a as s,b as e}from"./app.77460253.js";const o={},t=s("h1",{id:"绯红结系"},[s("a",{class:"header-anchor",href:"#绯红结系"},"#"),e(" 绯红结系")],-1),l=s("p",null,[e("TAG: ARPG / JRPG"),s("br"),e(" 发售日: 2021-06-24"),s("br"),e(" 备注: no data~"),s("br"),e(" 总评人数: 0"),s("br"),e(" 好评人数: 0")],-1);o.render=function(s,e){return a(),r(n,null,[t,l],64)};export default o;

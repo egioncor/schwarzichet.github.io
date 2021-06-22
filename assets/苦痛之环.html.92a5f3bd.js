@@ -1,0 +1,1 @@
+const e={key:"v-5b798703",path:"/game/2020/%E8%8B%A6%E7%97%9B%E4%B9%8B%E7%8E%AF.html",title:"苦痛之环",lang:"en-US",frontmatter:{game_release_date:"2020-10-16"},excerpt:"",headers:[{level:2,title:"锤",slug:"锤",children:[]}],filePathRelative:"game/2020/苦痛之环.md",git:{updatedTime:1624297843e3}};export{e as data};

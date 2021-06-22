@@ -1,0 +1,1 @@
+const e={key:"v-cda8e64c",path:"/game/2021/Bravely%20Default%20%E2%85%A1.html",title:"Bravely Default Ⅱ",lang:"en-US",frontmatter:{game_release_date:"2021-02-26"},excerpt:"",headers:[{level:2,title:"db",slug:"db",children:[]},{level:2,title:"sword",slug:"sword",children:[]}],filePathRelative:"game/2021/Bravely Default Ⅱ.md",git:{updatedTime:1624297843e3}};export{e as data};

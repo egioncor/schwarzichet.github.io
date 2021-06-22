@@ -1,0 +1,1 @@
+const e={key:"v-a85f2a9a",path:"/game/2016/%E8%80%BB%E8%BE%B12.html",title:"耻辱2",lang:"en-US",frontmatter:{game_release_date:"2016-11-11"},excerpt:"",headers:[{level:2,title:"M",slug:"m",children:[]},{level:2,title:"本子",slug:"本子",children:[]}],filePathRelative:"game/2016/耻辱2.md",git:{updatedTime:1624297843e3}};export{e as data};

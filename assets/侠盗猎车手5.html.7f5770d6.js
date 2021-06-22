@@ -1,0 +1,1 @@
+const e={key:"v-3451767a",path:"/game/2013/%E4%BE%A0%E7%9B%97%E7%8C%8E%E8%BD%A6%E6%89%8B5.html",title:"侠盗猎车手5",lang:"en-US",frontmatter:{game_release_date:"2013-09-17"},excerpt:"",headers:[{level:2,title:"db",slug:"db",children:[]},{level:2,title:"本子",slug:"本子",children:[]}],filePathRelative:"game/2013/侠盗猎车手5.md",git:{updatedTime:1624297843e3}};export{e as data};

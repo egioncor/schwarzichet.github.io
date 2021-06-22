@@ -1,0 +1,1 @@
+const e={key:"v-d2dae208",path:"/game/2015/DmC%EF%BC%9A%E9%AC%BC%E6%B3%A3%20%E5%86%B3%E5%AE%9A%E7%89%88.html",title:"DmC：鬼泣 决定版",lang:"en-US",frontmatter:{game_release_date:"2015-03-10"},excerpt:"",headers:[{level:2,title:"诺斯",slug:"诺斯",children:[]}],filePathRelative:"game/2015/DmC：鬼泣 决定版.md",git:{updatedTime:1624297843e3}};export{e as data};

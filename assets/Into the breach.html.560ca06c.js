@@ -1,0 +1,1 @@
+const e={key:"v-235443d9",path:"/game/2018/Into%20the%20breach.html",title:"Into the breach",lang:"en-US",frontmatter:{game_release_date:"2018-02-27"},excerpt:"",headers:[{level:2,title:"xgs",slug:"xgs",children:[]},{level:2,title:"ie",slug:"ie",children:[]}],filePathRelative:"game/2018/Into the breach.md",git:{updatedTime:1624297843e3}};export{e as data};

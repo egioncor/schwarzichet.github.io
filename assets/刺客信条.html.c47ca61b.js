@@ -1,0 +1,1 @@
+const e={key:"v-09d0946a",path:"/game/2007/%E5%88%BA%E5%AE%A2%E4%BF%A1%E6%9D%A1.html",title:"刺客信条",lang:"en-US",frontmatter:{game_release_date:"2007-11-13"},excerpt:"",headers:[{level:2,title:"db",slug:"db",children:[]},{level:2,title:"M",slug:"m",children:[]}],filePathRelative:"game/2007/刺客信条.md",git:{updatedTime:1624297843e3}};export{e as data};

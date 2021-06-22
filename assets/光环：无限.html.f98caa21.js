@@ -1,0 +1,1 @@
+import{o as a,c as r,F as n,a as o,b as s}from"./app.77460253.js";const e={},t=o("h1",{id:"光环-无限"},[o("a",{class:"header-anchor",href:"#光环-无限"},"#"),s(" 光环：无限")],-1),d=o("p",null,[s("TAG: FPS"),o("br"),s(" 发售日: no data~"),o("br"),s(" 备注: no data~"),o("br"),s(" 总评人数: 0"),o("br"),s(" 好评人数: 0")],-1);e.render=function(o,s){return a(),r(n,null,[t,d],64)};export default e;

@@ -1,0 +1,1 @@
+const e={key:"v-6cb1838f",path:"/game/1993/%E6%A2%A6%E5%B9%BB%E4%B9%8B%E6%98%9F4.html",title:"梦幻之星4",lang:"en-US",frontmatter:{game_release_date:"1993-12-17"},excerpt:"",headers:[{level:2,title:"xgs",slug:"xgs",children:[]}],filePathRelative:"game/1993/梦幻之星4.md",git:{updatedTime:1624297843e3}};export{e as data};

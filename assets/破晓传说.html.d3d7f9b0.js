@@ -1,0 +1,1 @@
+const e={key:"v-7e9d1252",path:"/game/2021/%E7%A0%B4%E6%99%93%E4%BC%A0%E8%AF%B4.html",title:"破晓传说",lang:"en-US",frontmatter:{game_release_date:"2021-09-09"},excerpt:"",headers:[],filePathRelative:"game/2021/破晓传说.md",git:{updatedTime:1624297843e3}};export{e as data};

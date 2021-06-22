@@ -1,0 +1,1 @@
+import{o as a,c as r,F as n,a as s,b as e}from"./app.77460253.js";const o={},t=s("h1",{id:"传送门"},[s("a",{class:"header-anchor",href:"#传送门"},"#"),e(" 传送门")],-1),l=s("p",null,[e("TAG: 解谜 / 叙事"),s("br"),e(" 发售日: 2007-10-10"),s("br"),e(" 备注: no data~"),s("br"),e(" 总评人数: 0"),s("br"),e(" 好评人数: 0")],-1);o.render=function(s,e){return a(),r(n,null,[t,l],64)};export default o;

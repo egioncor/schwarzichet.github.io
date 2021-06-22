@@ -1,0 +1,1 @@
+const e={key:"v-2c5d51bc",path:"/game/2001/%E5%85%89%E7%8E%AF%EF%BC%9A%E6%88%98%E6%96%97%E8%BF%9B%E5%8C%96.html",title:"光环：战斗进化",lang:"en-US",frontmatter:{game_release_date:"2001-11-15"},excerpt:"",headers:[{level:2,title:"三水",slug:"三水",children:[]}],filePathRelative:"game/2001/光环：战斗进化.md",git:{updatedTime:1624297843e3}};export{e as data};

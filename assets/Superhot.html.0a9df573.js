@@ -1,0 +1,1 @@
+const e={key:"v-1f15aa02",path:"/game/2016/Superhot.html",title:"Superhot",lang:"en-US",frontmatter:{game_release_date:"2016-02-25"},excerpt:"",headers:[{level:2,title:"xxd",slug:"xxd",children:[]}],filePathRelative:"game/2016/Superhot.md",git:{updatedTime:1624297843e3}};export{e as data};

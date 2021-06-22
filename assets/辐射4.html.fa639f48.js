@@ -1,0 +1,1 @@
+const e={key:"v-be6b48b6",path:"/game/2015/%E8%BE%90%E5%B0%844.html",title:"辐射4",lang:"en-US",frontmatter:{game_release_date:"2015-11-10"},excerpt:"",headers:[{level:2,title:"xgs",slug:"xgs",children:[]},{level:2,title:"17",slug:"_17",children:[]},{level:2,title:"独寻者",slug:"独寻者",children:[]}],filePathRelative:"game/2015/辐射4.md",git:{updatedTime:1624297843e3}};export{e as data};

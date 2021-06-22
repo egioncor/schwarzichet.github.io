@@ -1,0 +1,1 @@
+const e={key:"v-5cd9e19e",path:"/game/2021/%E5%AF%86%E7%89%B9%E7%BD%97%E5%BE%B7%EF%BC%9A%E7%94%9F%E5%AD%98%E6%81%90%E6%80%96.html",title:"密特罗德：生存恐怖",lang:"en-US",frontmatter:{game_release_date:"2021-10-08"},excerpt:"",headers:[],filePathRelative:"game/2021/密特罗德：生存恐怖.md",git:{updatedTime:1624297843e3}};export{e as data};

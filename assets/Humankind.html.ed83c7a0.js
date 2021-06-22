@@ -1,0 +1,1 @@
+import{o as a,c as n,F as r,a as s,b as d}from"./app.77460253.js";const e={},o=s("h1",{id:"humankind"},[s("a",{class:"header-anchor",href:"#humankind"},"#"),d(" Humankind")],-1),u=s("p",null,[d("TAG: 4X"),s("br"),d(" 发售日: 2021-08-18"),s("br"),d(" 备注: no data~"),s("br"),d(" 总评人数: 0"),s("br"),d(" 好评人数: 0")],-1);e.render=function(s,d){return a(),n(r,null,[o,u],64)};export default e;

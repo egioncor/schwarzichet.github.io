@@ -1,0 +1,1 @@
+const e={key:"v-4ee28205",path:"/game/2007/%E4%BC%A0%E9%80%81%E9%97%A8.html",title:"传送门",lang:"en-US",frontmatter:{game_release_date:"2007-10-10"},excerpt:"",headers:[],filePathRelative:"game/2007/传送门.md",git:{updatedTime:1624297843e3}};export{e as data};

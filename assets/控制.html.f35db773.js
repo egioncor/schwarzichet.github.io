@@ -1,0 +1,1 @@
+const e={key:"v-253a332a",path:"/game/2019/%E6%8E%A7%E5%88%B6.html",title:"控制",lang:"en-US",frontmatter:{game_release_date:"2019-08-27"},excerpt:"",headers:[{level:2,title:"M",slug:"m",children:[]},{level:2,title:"ie",slug:"ie",children:[]}],filePathRelative:"game/2019/控制.md",git:{updatedTime:1624297843e3}};export{e as data};

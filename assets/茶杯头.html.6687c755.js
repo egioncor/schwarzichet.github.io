@@ -1,0 +1,1 @@
+const e={key:"v-01ad7bdb",path:"/game/2017/%E8%8C%B6%E6%9D%AF%E5%A4%B4.html",title:"茶杯头",lang:"en-US",frontmatter:{game_release_date:"2017-09-29"},excerpt:"",headers:[{level:2,title:"swz",slug:"swz",children:[]},{level:2,title:"M",slug:"m",children:[]}],filePathRelative:"game/2017/茶杯头.md",git:{updatedTime:1624297843e3}};export{e as data};

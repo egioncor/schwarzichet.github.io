@@ -1,0 +1,1 @@
+const e={key:"v-48422e50",path:"/game/2013/%E6%9C%80%E5%90%8E%E7%94%9F%E8%BF%98%E8%80%85.html",title:"最后生还者",lang:"en-US",frontmatter:{game_release_date:"2013-06-14"},excerpt:"",headers:[{level:2,title:"blg",slug:"blg",children:[]},{level:2,title:"锤",slug:"锤",children:[]}],filePathRelative:"game/2013/最后生还者.md",git:{updatedTime:1624297843e3}};export{e as data};

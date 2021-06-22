@@ -1,0 +1,1 @@
+const e={key:"v-489aa4c2",path:"/game/nan/%E5%9C%B0%E5%B9%B3%E7%BA%BF%EF%BC%9A%E8%A5%BF%E9%83%A8%E7%A6%81%E5%8C%BA.html",title:"地平线：西部禁区",lang:"en-US",frontmatter:{game_release_date:"unknown"},excerpt:"",headers:[],filePathRelative:"game/nan/地平线：西部禁区.md",git:{updatedTime:1624297843e3}};export{e as data};

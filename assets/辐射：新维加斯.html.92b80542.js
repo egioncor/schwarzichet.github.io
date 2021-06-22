@@ -1,0 +1,1 @@
+const e={key:"v-7a1dda0c",path:"/game/2010/%E8%BE%90%E5%B0%84%EF%BC%9A%E6%96%B0%E7%BB%B4%E5%8A%A0%E6%96%AF.html",title:"辐射：新维加斯",lang:"en-US",frontmatter:{game_release_date:"2010-10-19"},excerpt:"",headers:[{level:2,title:"xgs",slug:"xgs",children:[]}],filePathRelative:"game/2010/辐射：新维加斯.md",git:{updatedTime:1624297843e3}};export{e as data};

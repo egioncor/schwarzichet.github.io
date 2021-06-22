@@ -1,0 +1,1 @@
+const e={key:"v-4c4012ea",path:"/game/2019/%E6%96%B0%E6%A8%B1%E8%8A%B1%E5%A4%A7%E6%88%98.html",title:"新樱花大战",lang:"en-US",frontmatter:{game_release_date:"2019-12-12"},excerpt:"",headers:[{level:2,title:"龙",slug:"龙",children:[]},{level:2,title:"老王",slug:"老王",children:[]}],filePathRelative:"game/2019/新樱花大战.md",git:{updatedTime:1624297843e3}};export{e as data};

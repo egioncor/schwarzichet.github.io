@@ -1,0 +1,1 @@
+const e={key:"v-23015446",path:"/game/2015/%E5%A5%A5%E6%97%A5%E4%B8%8E%E8%BF%B7%E5%A4%B1%E6%A3%AE%E6%9E%97.html",title:"奥日与迷失森林",lang:"en-US",frontmatter:{game_release_date:"2015-03-11"},excerpt:"",headers:[],filePathRelative:"game/2015/奥日与迷失森林.md",git:{updatedTime:1624297843e3}};export{e as data};

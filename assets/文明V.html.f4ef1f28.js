@@ -1,0 +1,1 @@
+const e={key:"v-453a315d",path:"/game/2010/%E6%96%87%E6%98%8EV.html",title:"文明V",lang:"en-US",frontmatter:{game_release_date:"2010-09-24"},excerpt:"",headers:[],filePathRelative:"game/2010/文明V.md",git:{updatedTime:1624297843e3}};export{e as data};

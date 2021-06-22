@@ -1,0 +1,1 @@
+const e={key:"v-142f245e",path:"/game/2020/%E8%BD%A9%E8%BE%95%E5%89%91%E6%9F%92.html",title:"轩辕剑柒",lang:"en-US",frontmatter:{game_release_date:"2020-10-29"},excerpt:"",headers:[{level:2,title:"老王",slug:"老王",children:[]}],filePathRelative:"game/2020/轩辕剑柒.md",git:{updatedTime:1624297843e3}};export{e as data};

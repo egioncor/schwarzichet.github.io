@@ -1,0 +1,1 @@
+const e={key:"v-20d180d9",path:"/game/2006/%E9%AC%BC%E6%B3%A33%E7%89%B9%E5%88%AB%E7%89%88.html",title:"鬼泣3特别版",lang:"en-US",frontmatter:{game_release_date:"2006-01-24"},excerpt:"",headers:[{level:2,title:"诺斯",slug:"诺斯",children:[]}],filePathRelative:"game/2006/鬼泣3特别版.md",git:{updatedTime:1624297843e3}};export{e as data};

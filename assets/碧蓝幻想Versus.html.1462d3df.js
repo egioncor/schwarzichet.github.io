@@ -1,0 +1,1 @@
+const e={key:"v-7bc99041",path:"/game/2020/%E7%A2%A7%E8%93%9D%E5%B9%BB%E6%83%B3Versus.html",title:"碧蓝幻想Versus",lang:"en-US",frontmatter:{game_release_date:"2020-02-06"},excerpt:"",headers:[{level:2,title:"bb",slug:"bb",children:[]},{level:2,title:"贼罗比",slug:"贼罗比",children:[]}],filePathRelative:"game/2020/碧蓝幻想Versus.md",git:{updatedTime:1624297843e3}};export{e as data};

@@ -1,0 +1,1 @@
+const e={key:"v-557eecd4",path:"/game/2012/%E8%B4%A8%E9%87%8F%E6%95%88%E5%BA%943.html",title:"质量效应3",lang:"en-US",frontmatter:{game_release_date:"2012-03-06"},excerpt:"",headers:[{level:2,title:"本子",slug:"本子",children:[]},{level:2,title:"17",slug:"_17",children:[]}],filePathRelative:"game/2012/质量效应3.md",git:{updatedTime:1624297843e3}};export{e as data};

@@ -1,0 +1,1 @@
+const e={key:"v-b2b1d078",path:"/game/2021/%E6%9E%81%E9%99%90%E7%AB%9E%E9%80%9F%EF%BC%9A%E5%9C%B0%E5%B9%B3%E7%BA%BF5.html",title:"极限竞速：地平线5",lang:"en-US",frontmatter:{game_release_date:"2021-11-10"},excerpt:"",headers:[],filePathRelative:"game/2021/极限竞速：地平线5.md",git:{updatedTime:1624297843e3}};export{e as data};

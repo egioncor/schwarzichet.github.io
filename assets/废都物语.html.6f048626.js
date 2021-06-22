@@ -1,0 +1,1 @@
+const e={key:"v-77c36aa2",path:"/game/2008/%E5%BA%9F%E9%83%BD%E7%89%A9%E8%AF%AD.html",title:"废都物语",lang:"en-US",frontmatter:{game_release_date:"2008-12-24"},excerpt:"",headers:[{level:2,title:"17",slug:"_17",children:[]},{level:2,title:"xgs",slug:"xgs",children:[]}],filePathRelative:"game/2008/废都物语.md",git:{updatedTime:1624297843e3}};export{e as data};

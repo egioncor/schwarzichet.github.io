@@ -1,0 +1,1 @@
+const e={key:"v-028084dc",path:"/game/2010/%E8%8D%92%E9%87%8E%E5%A4%A7%E9%95%96%E5%AE%A2%EF%BC%9A%E6%95%91%E8%B5%8E.html",title:"荒野大镖客：救赎",lang:"en-US",frontmatter:{game_release_date:"2010-05-18"},excerpt:"",headers:[{level:2,title:"db",slug:"db",children:[]}],filePathRelative:"game/2010/荒野大镖客：救赎.md",git:{updatedTime:1624297843e3}};export{e as data};

@@ -1,0 +1,1 @@
+const e={key:"v-8f24f06a",path:"/game/2019/%E6%88%98%E4%BA%89%E6%9C%BA%E5%99%A85.html",title:"战争机器5",lang:"en-US",frontmatter:{game_release_date:"2019-09-06"},excerpt:"",headers:[{level:2,title:"17",slug:"_17",children:[]}],filePathRelative:"game/2019/战争机器5.md",git:{updatedTime:1624297843e3}};export{e as data};

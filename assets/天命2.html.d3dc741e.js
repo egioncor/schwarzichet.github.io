@@ -1,0 +1,1 @@
+const e={key:"v-066e2693",path:"/game/2017/%E5%A4%A9%E5%91%BD2.html",title:"天命2",lang:"en-US",frontmatter:{game_release_date:"2017-10-24"},excerpt:"",headers:[{level:2,title:"本子",slug:"本子",children:[]}],filePathRelative:"game/2017/天命2.md",git:{updatedTime:1624297843e3}};export{e as data};

@@ -1,0 +1,1 @@
+const e={key:"v-48ef40d8",path:"/game/2016/%E7%BE%A4%E6%98%9F.html",title:"群星",lang:"en-US",frontmatter:{game_release_date:"2016-05-09"},excerpt:"",headers:[{level:2,title:"17",slug:"_17",children:[]}],filePathRelative:"game/2016/群星.md",git:{updatedTime:1624297843e3}};export{e as data};

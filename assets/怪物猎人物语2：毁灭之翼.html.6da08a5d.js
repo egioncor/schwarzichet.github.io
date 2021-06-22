@@ -1,0 +1,1 @@
+const e={key:"v-53d5e319",path:"/game/2021/%E6%80%AA%E7%89%A9%E7%8C%8E%E4%BA%BA%E7%89%A9%E8%AF%AD2%EF%BC%9A%E6%AF%81%E7%81%AD%E4%B9%8B%E7%BF%BC.html",title:"怪物猎人物语2：毁灭之翼",lang:"en-US",frontmatter:{game_release_date:"2021-07-09"},excerpt:"",headers:[],filePathRelative:"game/2021/怪物猎人物语2：毁灭之翼.md",git:{updatedTime:1624297843e3}};export{e as data};

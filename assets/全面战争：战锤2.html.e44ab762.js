@@ -1,0 +1,1 @@
+const e={key:"v-38eb4510",path:"/game/2017/%E5%85%A8%E9%9D%A2%E6%88%98%E4%BA%89%EF%BC%9A%E6%88%98%E9%94%A42.html",title:"全面战争：战锤2",lang:"en-US",frontmatter:{game_release_date:"2017-09-28"},excerpt:"",headers:[{level:2,title:"三水",slug:"三水",children:[]}],filePathRelative:"game/2017/全面战争：战锤2.md",git:{updatedTime:1624297843e3}};export{e as data};

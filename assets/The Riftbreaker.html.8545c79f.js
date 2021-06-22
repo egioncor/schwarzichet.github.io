@@ -1,0 +1,1 @@
+const e={key:"v-370f111c",path:"/game/nan/The%20Riftbreaker.html",title:"The Riftbreaker",lang:"en-US",frontmatter:{game_release_date:"unknown"},excerpt:"",headers:[],filePathRelative:"game/nan/The Riftbreaker.md",git:{updatedTime:1624297843e3}};export{e as data};

@@ -1,0 +1,1 @@
+const e={key:"v-7d329408",path:"/game/2018/%E6%AD%BB%E4%BA%A1%E7%BB%88%E5%B1%80%20%E8%BD%AE%E5%9B%9E%E8%AF%95%E7%82%BC.html",title:"死亡终局 轮回试炼",lang:"en-US",frontmatter:{game_release_date:"2018-06-28"},excerpt:"",headers:[{level:2,title:"老王",slug:"老王",children:[]}],filePathRelative:"game/2018/死亡终局 轮回试炼.md",git:{updatedTime:1624297843e3}};export{e as data};

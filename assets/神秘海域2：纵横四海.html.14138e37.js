@@ -1,0 +1,1 @@
+const e={key:"v-4b58a9d5",path:"/game/2009/%E7%A5%9E%E7%A7%98%E6%B5%B7%E5%9F%9F2%EF%BC%9A%E7%BA%B5%E6%A8%AA%E5%9B%9B%E6%B5%B7.html",title:"神秘海域2：纵横四海",lang:"en-US",frontmatter:{game_release_date:"2009-10-15"},excerpt:"",headers:[{level:2,title:"ie",slug:"ie",children:[]}],filePathRelative:"game/2009/神秘海域2：纵横四海.md",git:{updatedTime:1624297843e3}};export{e as data};

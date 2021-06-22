@@ -1,0 +1,1 @@
+const e={key:"v-8e881ec8",path:"/game/1992/%E4%B8%89%E5%9B%BD%E5%BF%973.html",title:"三国志3",lang:"en-US",frontmatter:{game_release_date:"1992-02-05"},excerpt:"",headers:[{level:2,title:"xgs",slug:"xgs",children:[]}],filePathRelative:"game/1992/三国志3.md",git:{updatedTime:1624297843e3}};export{e as data};
